@@ -25,6 +25,10 @@ git clone medgit@git.medlinker.com:chenjie/image-downloader.git
 ```
 sh deploy.sh
 ```
+编写数据源文件
+```
+参考 data.tpl.json 数据结构，将数据源文件放在根目录，命名为data.json
+```
 执行
 ```
 ./mac
