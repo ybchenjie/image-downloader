@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+image-downloader.iml
+.deploy.sh
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.readme.md
+win.exe
+mac
+main
