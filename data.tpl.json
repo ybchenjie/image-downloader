@@ -1,12 +1,12 @@
 [
   {
     "name": "图片名字",
-    "url": "http://pub-med-logo.medlinker.com/icon/guanlijihuajilu.png",
+    "url": "http://a.com/a.png",
     "path": "book/pic1"
   },
   {
     "name": "213222",
-    "url": "http://pub-med-logo.medlinker.com/icon/guanlijihuajilu.png",
+    "url": "http://b.com/b.png",
     "path": "less/looo/lll"
   }
 ]

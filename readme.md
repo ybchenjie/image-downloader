@@ -19,7 +19,7 @@
 
 下载项目
 ```
-git clone medgit@git.medlinker.com:chenjie/image-downloader.git
+git clone https://github.com/ybcjcc/image-downloader.git
 ```
 构建
 ```
@@ -39,12 +39,12 @@ sh deploy.sh
 [
   {
     "name": "图片名字",
-    "url": "http://pub-med-logo.medlinker.com/icon/guanlijihuajilu.png",
+    "url": "http://a.com/a.png",
     "path": "book/pic1"
   },
   {
     "name": "213222",
-    "url": "http://pub-med-logo.medlinker.com/icon/guanlijihuajilu.png",
+    "url": "http://b.com/b.jpg",
     "path": "less/looo/lll"
   }
 ]
